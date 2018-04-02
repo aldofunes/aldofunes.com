@@ -16,12 +16,14 @@ const Testimonials = ({ testimonials }) => (
 )
 
 Testimonials.propTypes = {
-  testimonials: PropTypes.arrayOf(
-    PropTypes.shape({
-      quote: PropTypes.string,
-      author: PropTypes.string,
-    })
-  ),
+  testimonials: PropTypes.arrayOf(PropTypes.shape({
+    quote: PropTypes.string,
+    author: PropTypes.string,
+  })),
+}
+
+Testimonials.defaultProps = {
+  testimonials: [],
 }
 
 export default Testimonials

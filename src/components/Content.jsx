@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-export const HTMLContent = ({ content, className }) => (
+const HTMLContent = ({ content, className }) => (
   <div className={className} dangerouslySetInnerHTML={{ __html: content }} />
 )
 
@@ -14,6 +14,12 @@ Content.propTypes = {
   className: PropTypes.string,
 }
 
+Content.defaultProps = {
+  content: null,
+  className: null,
+}
+
 HTMLContent.propTypes = Content.propTypes
 
+export { HTMLContent }
 export default Content

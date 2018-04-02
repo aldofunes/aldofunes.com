@@ -5,7 +5,9 @@ import Link from 'gatsby-link'
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
+
     const { edges: posts } = data.allMarkdownRemark
+    console.log(posts)
 
     return (
       <section className="section">
@@ -14,7 +16,7 @@ export default class IndexPage extends React.Component {
             <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
           </div>
           {posts
-            .filter(post => post.node.frontmatter.templateKey === 'blog-post')
+            .filter(post => post.node.frontmatter.templateKey === 'BlogPost')
             .map(({ node: post }) => (
               <div
                 className="content"
