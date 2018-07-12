@@ -13,6 +13,9 @@ parserOptions:
   ecmaFeatures:
     jsx: true
 
+globals:
+  graphql: true
+
 extends:
   - airbnb
   - plugin:jsx-a11y/recommended

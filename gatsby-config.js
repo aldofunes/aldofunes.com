@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Aldo Funes',
-    description: 'Personal website and blog of Aldo Funes'
+    description: 'Where I share my thoughts, projects and ideas.',
+    keywords: ['aldo', 'funes', 'developer', 'alpinist', 'photographer', 'human being'],
   },
   plugins: [
     'gatsby-plugin-react-helmet',
