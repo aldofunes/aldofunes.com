@@ -1,20 +1,50 @@
-import React from 'react'
 import PropTypes from 'prop-types'
+import React from 'react'
 import Helmet from 'react-helmet'
+import { Navbar } from '../components'
+import './styles.scss'
 
-import Navbar from '../components/Navbar'
-import './all.sass'
+const TemplateWrapper = ({ children, data }) => {
+  const { title, description, keywords } = data.site.siteMetadata
 
-const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet title="Home | Aldo Funes" />
-    <Navbar />
-    <div>{children()}</div>
-  </div>
-)
+  return (
+    <div>
+      <Helmet title={title} />
+      <Helmet
+        meta={[
+          { name: 'description', content: description },
+          { name: 'keywords', content: keywords },
+        ]}
+      />
+      <Navbar />
+      <div>{children()}</div>
+    </div>
+  )
+}
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func,
+  children: PropTypes.func.isRequired,
+  data: PropTypes.shape({
+    site: PropTypes.shape({
+      siteMetadata: PropTypes.shape({
+        tile: PropTypes.string,
+        description: PropTypes.string,
+        keywords: PropTypes.arrayOf(PropTypes.string.isRequired),
+      }).isRequired,
+    }).isRequired,
+  }).isRequired,
 }
+
+export const layoutQuery = graphql`
+  query LayoutQuery {
+    site {
+      siteMetadata {
+        title
+        description
+        keywords
+      }
+    }
+  }
+`
 
 export default TemplateWrapper
