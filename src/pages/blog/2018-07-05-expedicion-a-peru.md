@@ -1,11 +1,12 @@
 ---
 templateKey: BlogPost
-title: Expedición a Peru
+title: Expedición a Perú
 date: 2018-07-05T18:29:10.000Z
 description: Una aventura en sudamérica
 tags:
   - alpinismo
   - viaje
+  - blog
 ---
 
 ## La expedición

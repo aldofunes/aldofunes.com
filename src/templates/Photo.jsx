@@ -1,43 +1,30 @@
+import { kebabCase } from 'lodash'
+import Link from 'gatsby-link'
 import React from 'react'
 import PropTypes from 'prop-types'
-import Content, { HTMLContent } from '../components/Content'
+import { HTMLContent } from '../components'
 
-export const PhotoTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content
+const Photo = ({ data }) => {
+  const { markdownRemark: photo } = data
 
   return (
     <section className="section">
       <div className="container">
-        <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-          {title}
-        </h2>
-        <PageContent className="content" content={content} />
+        <h1 className="title is-size-1">{photo.frontmatter.title}</h1>
+        <h4 className="subtitle is-size-4">{photo.frontmatter.date}</h4>
+
+        {photo.frontmatter.tags && photo.frontmatter.tags.length ? (
+          <div className="tags">
+            {photo.frontmatter.tags.map(tag => (
+              <Link className="tag" to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+            ))}
+          </div>
+        ) : null}
+
+        <HTMLContent className="content" content={photo.html} />
+        <img src={photo.frontmatter.image} alt={photo.frontmatter.title} className="image" />
       </div>
     </section>
-  )
-}
-
-PhotoTemplate.propTypes = {
-  title: PropTypes.string,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
-}
-
-PhotoTemplate.defaultProps = {
-  title: null,
-  content: null,
-  contentComponent: null,
-}
-
-const Photo = ({ data }) => {
-  const { markdownRemark: post } = data
-
-  return (
-    <PhotoTemplate
-      contentComponent={HTMLContent}
-      title={post.frontmatter.title}
-      content={post.html}
-    />
   )
 }
 
@@ -53,6 +40,9 @@ export const photoQuery = graphql`
       html
       frontmatter {
         title
+        image
+        tags
+        date(formatString: "DD [de] MMMM YYYY" locale: "es")
       }
     }
   }

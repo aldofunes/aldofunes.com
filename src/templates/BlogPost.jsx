@@ -8,7 +8,7 @@ import { HTMLContent } from '../components/Content'
 const BlogPost = ({ data }) => {
   const { post } = data
 
-  const { title, date, description, tags } = data.post.frontmatter
+  const { title, date, tags } = data.post.frontmatter
   return (
     <section className="section">
       <Helmet title={`${title} | Blog`} />
@@ -17,22 +17,15 @@ const BlogPost = ({ data }) => {
         <h1 className="title is-size-2">{title}</h1>
         <h3 className="subtitle">{date}</h3>
 
-        <p>{description}</p>
-
-        <HTMLContent content={post.html} />
-
         {tags && tags.length ? (
-          <div style={{ marginTop: '4rem' }}>
-            <h4>Tags</h4>
-            <ul className="taglist">
-              {tags.map(tag => (
-                <li key={`${tag}-tag`}>
-                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                </li>
-              ))}
-            </ul>
+          <div className="tags">
+            {tags.map(tag => (
+              <Link className="tag" to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+            ))}
           </div>
         ) : null}
+
+        <HTMLContent content={post.html} />
       </div>
     </section>
   )
@@ -54,9 +47,8 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD [de] MMMM YYYY" locale: "es")
         title
-        description
         tags
       }
     }

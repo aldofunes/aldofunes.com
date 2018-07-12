@@ -1,17 +1,17 @@
 ---
-templateKey: 'AboutPage'
+templateKey: AboutPage
 path: /about
-title: About Me
+title: Sobre mí
 ---
 
-### Developer
+### Desarrollador
 
-My career as a developer began when I was in high school.
+Mi carrera como desarrollador inició en preparatoria.
 
-### Alpinist
+### Alpinista
 
-Climbing mountains is a very rewarding activity.
+Escalar montañas es una de las actividades más gratificantes del mundo.
 
-### Photographer
+### Fotógrafo
 
-Seeing the world is not enough.
+A veces simplemente ver el mundo no es suficiente
