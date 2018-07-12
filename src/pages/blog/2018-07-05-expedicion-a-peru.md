@@ -8,26 +8,18 @@ tags:
   - viaje
   - blog
 ---
+Nuestro vuelo salió de México el miércoles. Hicimos una escala de unas dos horas en el aeropuerto de El Salvador antes de tomar el vuelo que nos llevó a Lima. Saliendo del aeropuerto, como a las 2:00 AM tomamos un Uber que nos llevó a un hostal cerca de la terminal de camiones, donde logramos dormir poco más de tres horas.
 
-## La expedición
+Después de un buen baño, nos recogió el Uber con dirección a la terminal de Cruz del Sur, a 4 km. del hostal. Ahí empezaron los problemas. La hora pico en Lima resultó ser igual de problemática 
+que la de la Ciudad de México. Bajando del uber, corrimos a la terminal, pues el camión salía 9:30
+y ya eran las 9:25 y no habíamos registrado ni pagado las maletas. Al final, el camión venía 
+retrasado y lo tuvimos que esperar, ya más relajados.
 
-Algunos dicen que Perú es _la Mecca del alpinismo en América_. Puede que sea una exageración;
-pero ciertaemente tiene algunas de las montañas más hermosas del mundo. Nuestro plan original era
-llegar a la cima de tres de ellas: Alpamayo, Quitaraju y Artesonraju.
+El viaje fue muy cómodo, como si hubiéramos viajado en avión de primera clase; comida y bebida a 
+bordo, y unos asientos increíblemente cómodos. En las ocho horas de camino me dio tiempo de leer,
+dormir, comer, escuchar música, ver películas, dormir un poco más y ver el paisaje de la costa de
+peruana.
 
-Las tres son montañas técnicas de más de 6,000 metros de altura 
- 
 ### Alpamayo
 
 ![Alpamayo](/img/2018-07-05-expedition-to-peru/alpamayo.jpg)
-
-### Quitaraju
-
-### Artesonraju 
-
-## Arrival
-
-Our arrival trip was 2 days long. First we flew Mexico - El Salvador - Lima. Then we hopped into 
-a 8-hour bus ride to Huaraz, and finally, with our guides, we travelled to the first camp of the 
-expedition ()
-
