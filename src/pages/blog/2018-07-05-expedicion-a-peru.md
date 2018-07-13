@@ -1,6 +1,6 @@
 ---
 templateKey: BlogPost
-title: Expedición a Perú
+title: Crónicas de una expedición a Perú
 date: 2018-07-05T18:29:10.000Z
 tags:
   - alpinismo
@@ -12,12 +12,15 @@ El Salvador antes de tomar el vuelo que nos llevó a Lima. Saliendo del aeropuer
 2:00 AM tomamos un Uber que nos llevó a un hostal cerca de la terminal de camiones, donde 
 logramos dormir poco más de tres horas.
 
+<!---
+Fotos
+
 Andrea Funes
 
 Manuel Valencia
 
 Yo
-<!--- TODO: Photo --->
+--->
 
 Después de un buen baño, nos recogió el Uber con dirección a la terminal de Cruz del Sur, a 4 km.
 del hostal. Ahí empezaron los problemas. La hora pico en Lima resultó ser igual de problemática 
@@ -33,6 +36,9 @@ peruana.
 Nos recogieron a las ocho de la mañana y tres horas más tarde llegamos a Cashapampa. La 
 expedición iniciamos con:
 
+- Andrea
+- Manuel
+- Aldo
 - Nehemio (El Demonio): guía
 - Hernán (Huaypa): segundo guía
 - Michel (Chara): cocinero
@@ -62,7 +68,7 @@ Es buen momento para aclarar nuestro plan. El itinerario pactado con Nehemio que
 1. Campo base - Huaraz
 
 Estando en el campo base del Alpamayo, nos enteramos de que el Alpamayo tenía, sobre la canaleta 
-de la ruta, unas cornisas grandes que podían caer en cualquier momento y convertirse en una 
+de la ruta, unas cornisas enormes que podían caer en cualquier momento y convertirse en una 
 avalancha letal. Después, escuchamos de otro guía que intentó en Quitaraju, que se tuvo que bajar
 en el sexto largo (de 10) porque la nieve estaba muy suelta y no permitía poner protecciones. 
 
@@ -73,9 +79,40 @@ roban el crédito de rescates como este. Los primeros en llegar son el cuerpo de
 casa de guías, y los policías llegan, se toman una foto y reportan que _después de X horas, 
 rescataron a X personas_.
 
-Hablando con los guías, decidimos irnos directo al campo morrena del Artesonraju. Ya descartamos 
-el Alpamayo, porque el riesgo es demasiado alto. Esperaremos a bajar para tener noticias del 
-Quitaraju para ver si vale la pena subir al campo alto. Mientras, la caminata de 6 horas nos 
-mantendrá ocupados.
+Ya descartamos el Alpamayo, porque el riesgo es demasiado alto. Esperaremos a bajar para tener  
+noticias del Quitaraju para ver si vale la pena subir al campo alto. Mientras, la caminata de 6
+horas al campo morrena del Artesonraju nos mantendrá ocupados. Hicimos una rápida parada en el 
+campamento base del Artesonraju para comer un poco y armar las mochilas con las que subiremos. 
+Ahora ya no tendremos burros que nos ayuden, por lo que cada gramo cuenta.
 
+La subida es muy empinada y hace mucho calor. Subimos lento por las faldas de la montaña. Además,
+Manu y yo llevamos nuestra cámara, dos lentes y un tripié cada quien. Nos consuela pensar en las
+fotos de estrellas que vamos a tomar. Mirar al cielo nocturno y ver la Vía Láctea es una de las 
+experiencias más impresionantes de ir a una montaña. La altitud y la ausencia de contaminación 
+lumínica hacen que el cielo aparezca como en una película. La cantidad de estrellas que se ven me
+hacen pensar en las civilizaciones antiguas, que basaban su vida en ellas.
 
+_!Manu, chiste!_ Ahora le tocaba a Manuel contarle un chiste a Chara. Nos preparó una cena 
+bastante buena para estar a 5,000 metros sobre el nivel del mar. Cuando viajamos solos, para 
+ahorrar peso, llevamos bolsas de comida deshidratada; algo así como comida de astronauta. Hay de 
+varias cosas: lasagna bolognesa, arroz con carne, pollo thai, incluso hay postres como pie de 
+queso. Esta vez cenamos una sopita de verduras y un poco de pasta con salsa de jitomate. Es muy 
+extraño ver en un campamento así, una olla exprés; pero sino, por alguna razón Chara no se 
+sentiría cómodo hirviendo papas.
+
+Nos despertamos a las once de la noche. Hicimos los últimos preparativos. Tomamos un rápido té 
+para entrar en calor. Nos equipamos y salimos con ansias de subir una de las montañas más 
+técnicas de Perú. Dos horas de morrena, tres de glaciar y cuatro de paredes de hielo; más o menos
+eso vamos a hacer. La morrena se pasó rápido, el glaciar no estaba nada complicado. Nuestro 
+sufrimiento empezó cuando alcanzamos a los argentinos que habíamos conocido el día anterior.
+
+Una de ellos era guía en el Aconcagua, que puede llegar a cuarenta bajo cero. El Arteson, con sus
+diez bajo cero no presentaba un reto en cuanto a la temperatura para ellos. Salieron poco antes 
+que nosotros con la intención de que nuestro paso más lento no fuera problemático para nadie.
+
+Una hora los tuvimos que esperar poco antes de iniciar el primer largo en la pared de hielo. Al 
+parecer no fueron tan rápidos o nosotros no fuimos tan lentos. El punto es que esperar una hora a
+las cuatro de la mañana en medio de un glaciar a cinco mil quinientos metros nos enfrió mucho a 
+pesar de nuestras chamarras de pluma de ganso. Cuando finalmente liberaron la ruta y pudimos 
+empezar a subir, pensamos que el frío era suficiente como para no quitarnos las de pluma. Yo 
+peleaba con el arnés porque terminó debajo de la mía.  
