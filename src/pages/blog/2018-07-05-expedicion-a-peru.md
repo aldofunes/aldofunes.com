@@ -102,3 +102,6 @@ Una hora los tuvimos que esperar poco antes de iniciar el primer largo en la par
 _¿Van a escalar?_, -- Sí -- _¡Órale, qué chévere!_ El lobby del hostal parecía mercado con todas las niñas que estaban de viaje escolar corriendo y gritando.
 
 Ya estamos en la van camino al Valle del Ishinka. Chara olvidó el libro de chistes que nos dijo que iba a traer. Lo que sí trajo fue un balón para jugar fútbol en el campo base. Me canso solo de imaginarlo, un partido de fútbol a cuatro mil metros, ¿a quién se le ocurre? 
+
+Este valle es mucho más bonito que el de Santa Cruz. El río tiene un color azul turquesa, hay árboles con corteza roja que hacen una especie de túnel sobre el camino. Hay mucha vegetación. Sobre todo, hay sombra y viento que nos refresca en la subida. La comida a mitad de camino fue una pieza de pollo en guisado y un poco de camote; exquisito.
+
