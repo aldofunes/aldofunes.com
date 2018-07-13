@@ -85,34 +85,20 @@ horas al campo morrena del Artesonraju nos mantendrá ocupados. Hicimos una ráp
 campamento base del Artesonraju para comer un poco y armar las mochilas con las que subiremos. 
 Ahora ya no tendremos burros que nos ayuden, por lo que cada gramo cuenta.
 
-La subida es muy empinada y hace mucho calor. Subimos lento por las faldas de la montaña. Además,
-Manu y yo llevamos nuestra cámara, dos lentes y un tripié cada quien. Nos consuela pensar en las
-fotos de estrellas que vamos a tomar. Mirar al cielo nocturno y ver la Vía Láctea es una de las 
-experiencias más impresionantes de ir a una montaña. La altitud y la ausencia de contaminación 
-lumínica hacen que el cielo aparezca como en una película. La cantidad de estrellas que se ven me
-hacen pensar en las civilizaciones antiguas, que basaban su vida en ellas.
+La subida es muy empinada y hace mucho calor. Subimos lento por las faldas de la montaña. Además,Manu y yo llevamos nuestra cámara, dos lentes y un tripié cada quien. Nos consuela pensar en las fotos de estrellas que vamos a tomar. Mirar al cielo nocturno y ver la Vía Láctea es una de las experiencias más impresionantes de ir a una montaña. La altitud y la ausencia de contaminación lumínica hacen que el cielo aparezca como en una película. La cantidad de estrellas que se ven me hacen pensar en las civilizaciones antiguas, que basaban su vida en ellas.
 
-_!Manu, chiste!_ Ahora le tocaba a Manuel contarle un chiste a Chara. Nos preparó una cena 
-bastante buena para estar a 5,000 metros sobre el nivel del mar. Cuando viajamos solos, para 
-ahorrar peso, llevamos bolsas de comida deshidratada; algo así como comida de astronauta. Hay de 
-varias cosas: lasagna bolognesa, arroz con carne, pollo thai, incluso hay postres como pie de 
-queso. Esta vez cenamos una sopita de verduras y un poco de pasta con salsa de jitomate. Es muy 
-extraño ver en un campamento así, una olla exprés; pero sino, por alguna razón Chara no se 
-sentiría cómodo hirviendo papas.
+_!Manu, chiste!_ Ahora le tocaba a Manuel contarle un chiste a Chara. Nos preparó una cena bastante buena para estar a 5,000 metros sobre el nivel del mar. Cuando viajamos solos, para ahorrar peso, llevamos bolsas de comida deshidratada; algo así como comida de astronauta. Hay de varias cosas: lasagna bolognesa, arroz con carne, pollo thai, incluso hay postres como pie de queso. Esta vez cenamos una sopita de verduras y un poco de pasta con salsa de jitomate. Es muy extraño ver en un campamento así, una olla exprés; pero sino, por alguna razón Chara no se sentiría cómodo hirviendo papas.
 
-Nos despertamos a las once de la noche. Hicimos los últimos preparativos. Tomamos un rápido té 
-para entrar en calor. Nos equipamos y salimos con ansias de subir una de las montañas más 
-técnicas de Perú. Dos horas de morrena, tres de glaciar y cuatro de paredes de hielo; más o menos
-eso vamos a hacer. La morrena se pasó rápido, el glaciar no estaba nada complicado. Nuestro 
-sufrimiento empezó cuando alcanzamos a los argentinos que habíamos conocido el día anterior.
+Nos despertamos a las once de la noche. Hicimos los últimos preparativos. Tomamos un rápido té para entrar en calor. Nos equipamos y salimos con ansias de subir una de las montañas más técnicas de Perú. Dos horas de morrena, tres de glaciar y cuatro de paredes de hielo; más o menos eso vamos a hacer. La morrena se pasó rápido, el glaciar no estaba nada complicado. Nuestro sufrimiento empezó cuando alcanzamos a los argentinos que habíamos conocido el día anterior.
 
-Una de ellos era guía en el Aconcagua, que puede llegar a cuarenta bajo cero. El Arteson, con sus
-diez bajo cero no presentaba un reto en cuanto a la temperatura para ellos. Salieron poco antes 
-que nosotros con la intención de que nuestro paso más lento no fuera problemático para nadie.
+Una de ellos era guía en el Aconcagua, que puede llegar a cuarenta bajo cero. El Arteson, con sus diez bajo cero no presentaba un reto en cuanto a la temperatura para ellos. Salieron poco antes que nosotros con la intención de que nuestro paso más lento no fuera problemático para nadie.
 
-Una hora los tuvimos que esperar poco antes de iniciar el primer largo en la pared de hielo. Al 
-parecer no fueron tan rápidos o nosotros no fuimos tan lentos. El punto es que esperar una hora a
-las cuatro de la mañana en medio de un glaciar a cinco mil quinientos metros nos enfrió mucho a 
-pesar de nuestras chamarras de pluma de ganso. Cuando finalmente liberaron la ruta y pudimos 
-empezar a subir, pensamos que el frío era suficiente como para no quitarnos las de pluma. Yo 
-peleaba con el arnés porque terminó debajo de la mía.  
+Una hora los tuvimos que esperar poco antes de iniciar el primer largo en la pared de hielo. Al parecer no fueron tan rápidos o nosotros no fuimos tan lentos. El punto es que esperar una hora alas cuatro de la mañana en medio de un glaciar a cinco mil quinientos metros nos enfrió mucho a pesar de nuestras chamarras de pluma de ganso. Cuando finalmente liberaron la ruta y pudimos empezar a subir, pensamos que el frío era suficiente como para no quitarnos las de pluma. Yo peleaba con el arnés porque terminó debajo de la mía.  
+
+
+
+---
+
+_¿Van a escalar?_, -- Sí -- _¡Órale, qué chévere!_ El lobby del hostal parecía mercado con todas las niñas que estaban de viaje escolar corriendo y gritando.
+
+Ya estamos en la van camino al Valle del Ishinka. Chara olvidó el libro de chistes que nos dijo que iba a traer. Lo que sí trajo fue un balón para jugar fútbol en el campo base. Me canso solo de imaginarlo, un partido de fútbol a cuatro mil metros, ¿a quién se le ocurre? 
