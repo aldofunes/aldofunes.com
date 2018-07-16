@@ -93,9 +93,17 @@ Nos despertamos a las once de la noche. Hicimos los últimos preparativos. Tomam
 
 Una de ellos era guía en el Aconcagua, que puede llegar a cuarenta bajo cero. El Arteson, con sus diez bajo cero no presentaba un reto en cuanto a la temperatura para ellos. Salieron poco antes que nosotros con la intención de que nuestro paso más lento no fuera problemático para nadie.
 
-Una hora los tuvimos que esperar poco antes de iniciar el primer largo en la pared de hielo. Al parecer no fueron tan rápidos o nosotros no fuimos tan lentos. El punto es que esperar una hora alas cuatro de la mañana en medio de un glaciar a cinco mil quinientos metros nos enfrió mucho a pesar de nuestras chamarras de pluma de ganso. Cuando finalmente liberaron la ruta y pudimos empezar a subir, pensamos que el frío era suficiente como para no quitarnos las de pluma. Yo peleaba con el arnés porque terminó debajo de la mía.  
+Una hora los tuvimos que esperar poco antes de iniciar el primer largo en la pared de hielo. Al parecer no fueron tan rápidos o nosotros no fuimos tan lentos. El punto es que esperar una hora alas cuatro de la mañana en medio de un glaciar a cinco mil quinientos metros nos enfrió mucho a pesar de nuestras chamarras de pluma de ganso. Cuando finalmente liberaron la ruta y pudimos empezar a subir, pensamos que el frío era suficiente como para no quitarnos las de pluma. Yo peleaba con el arnés porque terminó debajo de la mía.
 
+La nieve está en pésimas condiciones. El primer largo tiene hielo duro cubierto por una capa de hielo poroso. Los piolets se clavan, pero al momento de jalar se caen bloques grandes de hielo poroso, como si tuviera una capa de esponja quebradiza. Abajo de eso, el hielo duro rebotaba el piolet. Solamente estoy logrando clavarlo unos milímetros, y no me da nada de confianza. La pared tiene 80° de inclinación y, aunque Hernán me está asegurando desde arriba, siento que el hielo cederá en cualquier momento.
 
+Así funciona nuestro ascenso: primero sube Nehemio, y poco después Hernán; Andrea y Manu suben asegurados por Nehemio con cuatro metros de distancia; al final subo yo, asegurado por Hernán. Así, logramos hacerlo más o menos en paralelo y no perder tanto tiempo subiendo una cordada después de la otra.
+
+El grupo de argentinos está en el último largo, ya para llegar a la arista de la cumbre, podemos verlos desde donde estamos. Hay viento fuerte y vemos cómo suben las nubes y encierran a nuestros amigos argentinos. No tardó en encerrarnos a nosotros. 
+
+El viento nos llega de lado, y cómo es húmedo, nos llena de escarcha todo el lado izquierdo del cuerpo. Tampoco podemos ver mucho. La visibilidad ha de ser de unos 30 metros. Ya no escucho a Hernán gritar que ya puedo empezar a escalar, pero veo cómo Nehemio me hace señas como de _ya puedes subir_.
+
+En las reuniones, mientras esperamos a que los guías suban y monten la siguiente, nos congelamos. Las manos frías y entumidas sirven de poco al momento de querer poner un mosquetón en mi arnés, que sigue debajo de mi chamarra de pluma. No siento los pies y estoy temblando violentamente. 
 
 ---
 
@@ -105,3 +113,18 @@ Ya estamos en la van camino al Valle del Ishinka. Chara olvidó el libro de chis
 
 Este valle es mucho más bonito que el de Santa Cruz. El río tiene un color azul turquesa, hay árboles con corteza roja que hacen una especie de túnel sobre el camino. Hay mucha vegetación. Sobre todo, hay sombra y viento que nos refresca en la subida. La comida a mitad de camino fue una pieza de pollo en guisado y un poco de camote; exquisito.
 
+El campo base está lleno de gente. Dice Manu que es como Disneylandia. Contamos unas 60 tiendas, más los que estén en el refugio. La vista del Toclla es impresionante, tiene un glaciar imponente. La idea es subir al día siguiente y encumbrar el 15
+
+Recibimos el pronóstico del clima. Mañana estará tranquilo, y el domingo habra viento, nieve, lluvia y frío. Así que, ¡cambio de planes! Mañana haremos el _summit push_. Nos vamos a saltar el campo alto e iremos directo a la cima.
+
+Hernán dice que debemos despertarnos a las diez de la noche. El camino es largo y si queremos llegar a la cumbre a buena hora debemos salir a las once. Son las siete y apenas estamos terminando de cenar, con suerte dormiremos dos horas. Lo bueno es que ya tenemos todo listo para mañana: las mochilas, las botas y la ropa.
+
+-- ¡Ring ring, Manuel! -- Grita Nehemio para despertarnos. Nos dio cuarenta minutos más de sueño, pero ya hay que arreglarnos, comer algo rápido y salir. En realidad seguimos llenos de la cena de hace rato, y con un té y una galleta con mermelada nos basta. Empezamos la escalada a las 23:45, y Ezequiel nos está ayudando a cargar algunas cosas hasta el glaciar, mis botas incluidas.
+
+El camino por la morrena está horrible. Hay zonas con nieve y hielo, pero todavía no podemos ponernos los crampones, entonces está muy resbaloso. Tres horas y media después, con los pies helados, llegamos a la lengua del glaciar. Las cardadas son las mismas que en el Arteson; Andrea, Manuel y Nehemio en una, y Hernán y yo en la otra.
+
+El viento empezó como a las tres de la mañana. Un viento helado y seco. Lo bueno es que no se siente tan frío como el viendo en el Artesonraju y mientras sigamos caminando, no está tan mal.
+
+Creo que llevamos buen paso. Muy a lo lejos se ven cuatro linternas, pero cada vez estamos más cerca de ellas. Ahora caminamos en zigzag para esquivar todas las grietas que tiene el glaciar, así que para cuando alcanzamos a los que están delante de nosotros, ya amaneció.
+
+Los primeros que alcanzamos son un francés con su guía. Nos dijo Nehemio que el guía es el anterior director técnico de la escuela de guías, o sea el que se encargaba de observar el comportamiento de los aspirantes durante los tres años que dura el curso. ya decidieron bajarse de la montaña porque la nieve está en malas condiciones. La otra cordada es una pareja de mexicanos. Están intentando subir por un serac roto, que bloquea la ruta. Los esperamos solo un rato 
